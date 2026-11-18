@@ -1,0 +1,2 @@
+run:
+	daphne websocket_project.asgi:application
